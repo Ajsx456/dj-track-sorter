@@ -1,5 +1,5 @@
 {
-  "name": "rest-express",
+  "name": "dj-track-sorter",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
@@ -94,4 +94,13 @@
     "@types/ws": "^8.5.13",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
-    "connect-pg-simple": "^10
+    "connect-pg-simple": "^10.0.0",
+    "drizzle-kit": "^0.29.0",
+    "esbuild": "^0.24.2",
+    "postcss": "^8.5.11",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  }
+}
